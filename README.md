@@ -59,7 +59,7 @@
 ### 1. 下载脚本
 
 ```bash
-wget -O reality_caddy.sh https://raw.githubusercontent.com/SumMoonYou/reality_vision_caddy/main/install.sh
+wget -O reality_caddy.sh https://raw.githubusercontent.com/SunMoonWithYou/reality_vision_caddy/main/install.sh
 ```
 
 ### 2. 赋予执行权限

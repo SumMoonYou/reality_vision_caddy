@@ -1029,4 +1029,4 @@ while true; do
     0) info "再见！"; exit 0 ;;
     *) warn "无效选择"; sleep 1 ;;
   esac
-doneis_installed
+done
